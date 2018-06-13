@@ -1,0 +1,8 @@
+# RamanSystem #
+
+The **RamanSystem** is designed to process, analyze, and classify Raman spectrum. It contains numerous powerful algorithms that are executed using a simple graphical user interface.The source code is available so anyone can contribute to the development of the program.
+
+![flow chart](https://github.com/forjobs/RamanSystem/blob/master/flow%20chart.jpg)
+[**The flow chart**](https://github.com/forjobs/RamanSystem/blob/master/flow%20chart.jpg "graphical user interface") displays the structure and data stream of system. The system is organized into four modules that execute specialized functions that operate upon data loaded in the system. The primary functions of the system include loading/initialization, preprocessing, recognition, and analysis/classification. The spectral data is imported from a special format file, and the corresponding spectral range and resolution of original spectrum signal are shown. After reading of data, some preprocessing methods are available, such as denosing, despiking, and baseline removal. If the information of sample class is unknown, analysis and classification is unique choice. The system provides three modeling methods, including PCA (principal Components Analysis), LDA (Linear Discriminant Analysis), and PLS (Partial Least Squares Regression).
+
+[**The graphical user interface of the Raman processing system**](https://github.com/forjobs/RamanSystem/blob/master/graphical%20user%20interface%20of%20the%20Raman%20processing%20system.jpg "graphical user interface")

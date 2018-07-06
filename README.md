@@ -19,7 +19,7 @@ A spectrum file consists of a column of wavenumbers and a column of correspondin
 
 ![selectdata interface](https://github.com/forjobs/RamanSystem/blob/master/selectdata%20interface.jpg)
 
-Example data file is provided in the sample.txt.
+Example data file is provided by the *.txt in the folder "data".
 
 ## Features ##
 Here are some of the features of the Raman Processing program:

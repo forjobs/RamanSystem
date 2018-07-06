@@ -2,9 +2,7 @@
 Raman Spectra
 =============
 
-These Raman spectra were acquired from a plastic cup, eraser, and a model skull.
-The spectrometer used a 785 nm laser and fiber-optic probe with a sapphire ball
-lens.
+These Raman spectra were acquired by the spectrometer using a 785 nm laser.
 
 The data isn't very good or particularly useful, but it was readily available
 and permissible for release.  Ideally, the data in the *.txt files should be

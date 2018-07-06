@@ -4,7 +4,7 @@ The **RamanSystem** is designed to process, analyze, and classify Raman spectrum
 
 ![flow chart](https://github.com/forjobs/RamanSystem/blob/master/flow%20chart.jpg)
 
-![graphical user interface](https://github.com/forjobs/RamanSystem/blob/master/graphical%20user%20interface%20of%20the%20Raman%20processing%20system.jpg)
+![graphical user interface](https://github.com/forjobs/RamanSystem/blob/master/graphical%20user%20interface%20.jpg)
 
 ## Requirements ##
 
